@@ -1,18 +1,31 @@
 # Pratikum 1
-Kode HTML dasar:
+Struktur dasar HTML
+Pastikan memiliki struktur seperti:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-09-22 212242" src="https://github.com/user-attachments/assets/a219c414-62f3-47d0-940e-407c623b4b8e" />
+Perhaatikan tag < HTML >, < Head >, < Title >, dan < Body >
 
-Membuat Paragraf:
+Membuat Teks Paragraf
+Gunakan tag < p > untuk membuat paragraf baru.
+Contohnya:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-09-22 140456" src="https://github.com/user-attachments/assets/7ad58896-0c3a-4000-97b9-d50fcbe90eb6" />
+Amati bahwa setiap paragraf memberi jarak di atas dan dibawah Teksnya.
 
-Menambahkan Judul:
+Menambahkan Heading (judul)
+Gunakan tag Heading seperti < H1 >, < H2 >, dsb.
+contohnya:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-09-22 140755" src="https://github.com/user-attachments/assets/8420bc28-9c93-4c24-8957-1d9606df6f63" />
+Fungsinya untuk memberi struktur dan hierarki pada konten.
 
-Menformatkan Teks:
+Menformatkan Teks
+Coba gunakan tag-tag seperti < strong >,< em >, < u >, < small >, untuk menegaskan atau memberi gaya tertentu pada bagian teks.
+contohnya:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-09-22 213331" src="https://github.com/user-attachments/assets/1dcbebae-50ad-4ce6-b0ca-001c106d2a13" />
 
-Menyisipkan Gambar:
+Menyisipkan Gambar
+Gunakan tag < img > dengan atribut minimal src dan alt.
+contoh:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-09-22 184620" src="https://github.com/user-attachments/assets/a4092e1c-d428-4684-a422-b40ee48eaff6" />
+Pastikan gammbar tammpil dan deskripsi alt membantu jika gambar tidak bisa dimuat
 
 Menambahkan Hyperlink:
 <img width="1920" height="1080" alt="Cuplikan layar 2025-09-22 191728" src="https://github.com/user-attachments/assets/5ce2e628-9044-470f-bac5-a15aa32c4c94" />
